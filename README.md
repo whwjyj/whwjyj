@@ -50,4 +50,4 @@ Email : whwjyj00@naver.com
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whwjyjanuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whwjyj&layout=compact)
