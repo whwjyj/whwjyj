@@ -46,3 +46,8 @@ Email : whwjyj00@naver.com
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whwjyjanuraghazra&layout=compact)
