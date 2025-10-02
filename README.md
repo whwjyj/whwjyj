@@ -5,4 +5,4 @@ Email : whwjyj00@naver.com
 
 ✓Frontend
 
-![Flutter Logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter Logo" width="50" height="50"/> Flutter
